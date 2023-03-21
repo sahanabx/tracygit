@@ -137,6 +137,10 @@ Here's a sentence with a footnote. <sup id="a1">[1](#c2)</sup>
 [1]This is another footnote to go with the first.
 
 <br><br>
+
+Trail Footnote with number 2 in it <sup id="a1">[2](#c2)</sup>  
+<br>
+Trail Footnote with number 3 in it <sup id="a1">[3](#c2)</sup>  
 ***
 ## Examples of math in .md
 
